@@ -88,7 +88,8 @@
             "release_year": 2020,
             "storage": "825GB SSD",
             "price": 499,
-            "best_selling_game": "Spider-Man: Miles Morales"
+            "best_selling_game": "Spider-Man: Miles Morales",
+            "icon": "https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-miles-morales-listing-thumb-01-ps4-ps5-en-02oct20?$facebook$"
         },
         {
             "name": "Xbox Series X",
@@ -96,7 +97,8 @@
             "release_year": 2020,
             "storage": "1TB SSD",
             "price": 499,
-            "best_selling_game": "Halo Infinite"
+            "best_selling_game": "Halo Infinite",
+            "icon": "https://www.godisageek.com/wp-content/uploads/Halo-Infinite-Multiplayer-Review.jpg"
         },
         {
             "name": "Nintendo Switch",
@@ -104,7 +106,8 @@
             "release_year": 2017,
             "storage": "32GB",
             "price": 299,
-            "best_selling_game": "Mario Kart 8 Deluxe"
+            "best_selling_game": "Mario Kart 8 Deluxe",
+            "icon": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/software/switch/70070000013723/78683d87f12356c571e4541b2ef649e3bd608285139704087c552171f715e399"
         },
         {
             "name": "Steam Deck",
@@ -112,7 +115,8 @@
             "release_year": 2022,
             "storage": "64GB eMMC",
             "price": 399,
-            "best_selling_game": "Elden Ring"
+            "best_selling_game": "Elden Ring",
+            "icon": "https://assetsio.gnwcdn.com/elden-ring-bosses-in-order-main-mandatory-8042-1647011924713.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp"
         },
         {
             "name": "PlayStation 4 Pro",
@@ -120,7 +124,8 @@
             "release_year": 2016,
             "storage": "1TB HDD",
             "price": 399,
-            "best_selling_game": "God of War (2018)"
+            "best_selling_game": "God of War (2018)",
+            "icon": "https://gmedia.playstation.com/is/image/SIEPDC/god-of-war-listing-thumb-01-ps4-us-12jun17?$facebook$"
         }
     ], 
     "friends":[
