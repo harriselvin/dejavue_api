@@ -4,7 +4,7 @@
             "make": "Toyota", 
             "model": "Camry", 
             "year": 2022, 
-            "color": "Silver", 
+            "color": "Gray", 
             "price": 25000,
             "image": "https://stimg2.cardekho.com/images/carNewsimages/userimages/650X420/28452/1641977260920/GeneralNews.jpg"
         },
@@ -12,7 +12,7 @@
             "make": "Honda", 
             "model": "Civic", 
             "year": 2023, 
-            "color": "Blue", 
+            "color": "Red", 
             "price": 22000,
             "image": "https://di-uploads-pod23.dealerinspire.com/rairdonshondaofsumner/uploads/2022/11/2023-honda-civic-rallye-red.png"
         },
@@ -20,7 +20,7 @@
             "make": "Ford", 
             "model": "Mustang", 
             "year": 2021, 
-            "color": "Red", 
+            "color": "Black", 
             "price": 35000,
             "image": "https://www.cnet.com/a/img/resize/b02c5767ea9d280b7f31c7d64102571b01b044c7/2022/05/10/dec6f5ee-b374-404a-b47a-8c8e92a6ca74/mustang-shelby-gt500-h.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
@@ -28,7 +28,7 @@
             "make": "Chevrolet", 
             "model": "Malibu", 
             "year": 2022, 
-            "color": "Black", 
+            "color": "Gray", 
             "price": 27000,
             "image": "https://di-uploads-pod33.dealerinspire.com/loufuszchevy/uploads/2022/02/2022-Chevrolet-Malibu-MineralGrayMetallic.png"
         },
@@ -44,7 +44,7 @@
             "make": "BMW", 
             "model": "3 Series", 
             "year": 2022, 
-            "color": "Gray", 
+            "color": "Silver", 
             "price": 40000,
             "image": "https://www.bmw.co.za/content/dam/bmw/common/all-models/3-series/sedan/2022/highlights/bmw-3-series-sedan-sp-desktop.jpg"
         },
@@ -52,7 +52,7 @@
             "make": "Mercedes-Benz", 
             "model": "C-Class", 
             "year": 2023, 
-            "color": "Silver", 
+            "color": "Black", 
             "price": 45000,
             "image": "https://vehicle-images.dealerinspire.com/928f-110008895/W1KAF4HB7PR124696/9bb4eb17d12ca77e93ef3442a6510d3b.jpg"
         },
@@ -60,7 +60,7 @@
             "make": "Audi", 
             "model": "A4", 
             "year": 2021, 
-            "color": "Black", 
+            "color": "Blue", 
             "price": 38000,
             "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2021/02/09014228/2021-Audi-A4-Front-scaled-1.jpg"
         },
@@ -68,7 +68,7 @@
             "make": "Hyundai", 
             "model": "Sonata", 
             "year": 2022, 
-            "color": "Blue", 
+            "color": "Gray", 
             "price": 26000,
             "image": "https://dealerimages.dealereprocess.com/image/upload/2479599"
         },
@@ -76,7 +76,7 @@
             "make": "Kia", 
             "model": "Optima", 
             "year": 2023, 
-            "color": "Red", 
+            "color": "Gray", 
             "price": 23000,
             "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1575320319/autoexpress/2019/11/01_17.jpg"
         }
